@@ -5,9 +5,9 @@
 
 Eu me chamo **Iago Rosa Bianquini** sou um **Desenvolvedor Full-Stack Junior**, cursando o ultimo ano de Ciência da Computação. 
 
-- 👨‍💻 Atualmente trabalhando na NDDigital como estagiário;
+- 👨‍💻 Atualmente trabalhando na NDDigital como **Analista de Desenvolvimento Junior**;
 
-- 💻 Estudando React React-Native
+- 💻 Estudando React React-Native & C#
 
 
 
