@@ -3,11 +3,11 @@
 
 :heart: Programming | :coffee: Coffee | 🎮 Games
 
-Eu me chamo **Iago Rosa Bianquini** sou um **Desenvolvedor Full-Stack Junior**, cursando o ultimo ano de Ciência da Computação. 
+Eu me chamo **Iago Rosa Bianquini** sou um **Desenvolvedor Full-Stack Junior**, bacharel em Ciência da Computação Formado pelo IFSC. 
 
 - 👨‍💻 Atualmente trabalhando na NDDigital como **Analista de Desenvolvimento Junior**;
 
-- 💻 Estudando React React-Native & C#
+- 💻 Estudando Node, React, React-Native & C#
 
 
 
